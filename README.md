@@ -1,6 +1,6 @@
 # find_peaks-CPP
 Translate 'scipy.signal.find_peaks' into C++
-# See more detail 'scipy.signal.find_peaks' in:
+# See more detail about 'scipy.signal.find_peaks' in:
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.find_peaks.html
 
 ---
