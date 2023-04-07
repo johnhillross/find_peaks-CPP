@@ -21,6 +21,9 @@ plt.plot(peaks, x[peaks], "o")
 plt.show()
 ```
 
+![scipy.signal.find_peaks](https://github.com/johnhillross/find_peaks-CPP/blob/main/pictures/python.png)
+
+---
 ## find_peaks-CPP:
 
 ```cpp
@@ -44,3 +47,5 @@ for (int i = 0; i < peakIndex.size(); i++) {
 //plotXYs is a function that uses 'matplotlib', we dont't show the code here
 plotXYs({ index, peakIndex }, { x, peak }, { "g-", "ro"}, { 1200, 780 });
 ```
+
+![find_peaks-CPP](https://github.com/johnhillross/find_peaks-CPP/blob/main/pictures/cpp.png)
