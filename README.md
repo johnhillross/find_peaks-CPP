@@ -21,7 +21,7 @@ plt.plot(peaks, x[peaks], "o")
 plt.show()
 ```
 
-![scipy.signal.find_peaks](https://github.com/johnhillross/find_peaks-CPP/blob/main/pictures/python.png?raw=true)
+![scipy.signal.find_peaks](https://github.com/johnhillross/find_peaks-CPP/blob/main/pictures/python.png)
 
 ---
 ## find_peaks-CPP:
@@ -48,4 +48,4 @@ for (int i = 0; i < peakIndex.size(); i++) {
 plotXYs({ index, peakIndex }, { x, peak }, { "g-", "ro"}, { 1200, 780 });
 ```
 
-![find_peaks-CPP](https://github.com/johnhillross/find_peaks-CPP/blob/main/pictures/cpp.png?raw=true)
+![find_peaks-CPP](https://github.com/johnhillross/find_peaks-CPP/blob/main/pictures/cpp.png)
