@@ -5,7 +5,7 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.find_peaks.htm
 
 ---
 
-# Comparison
+# Comparison demo
 
 ## scipy.signal.find_peaks:
 
