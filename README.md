@@ -27,7 +27,7 @@ plt.show()
 ## find_peaks-CPP:
 
 ```cpp
-#include "find_peaks.h"
+#include "findpeaks.h"
 #include "matplotlibcpp.h"
 #include <vector>
 #define PINF numeric_limits<double>::infinity()
