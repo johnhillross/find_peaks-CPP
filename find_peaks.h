@@ -1,3 +1,6 @@
+#ifndef FINDPEAKS_H
+#define FINDPEAKS_H
+
 #include <vector>
 
 using namespace std;
@@ -238,3 +241,5 @@ vector<int> findPeaks(vector<double> x, vector<double> plateauSize = {}, vector<
 
 	return peaks;
 }
+
+#endif
