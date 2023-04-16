@@ -42,7 +42,7 @@ vector<double> peak;
 for (int i = 0; i < peakIndex.size(); i++) {
   peak.push_back(x[peakIndex[i]]);
 }
-//plotXYs is a function that uses 'matplotlib', we dont't show the code here
+//plotXYs is a function uses 'matplotlib'
 plotXYs({ index, peakIndex }, { x, peak }, { "g-", "ro"}, { 1200, 780 });
 ```
 
